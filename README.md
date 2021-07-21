@@ -1,1 +1,1 @@
-# ET0731-project
+# Battendance Tracking System (BTS)
