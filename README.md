@@ -1,1 +1,1 @@
-# Battendance Tracking System (BTS)
+# Better attendance Tracking System (BTS)
